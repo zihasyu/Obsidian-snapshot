@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "cc26bd8db67ae4fb",
+    "id": "38d8c3e8c5cebde4",
     "type": "split",
     "children": [
       {
-        "id": "2949c4bd97c12f93",
+        "id": "ea2b3fe65e2ad337",
         "type": "tabs",
         "children": [
           {
-            "id": "1f9749bf67762dc6",
+            "id": "0f2be7ad2db0dd3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "研究生/实验（迁移中）/bisearch/2024/9.4 BiSearch 实验设计.md",
+                "file": "研究生/Key_TODO/COS-key.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.4 BiSearch 实验设计"
+              "title": "COS-key"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9f754df57d2e91e9",
+    "id": "8d14e8dd1c5aa3ad",
     "type": "split",
     "children": [
       {
-        "id": "d865e878e54fd81e",
+        "id": "fa716902b0a78cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "297e09ac4d464e4c",
+            "id": "55ca559c462d988f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "1527009914164038",
+            "id": "4b8e7b126757811a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "COS KEy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,17 @@
             }
           },
           {
-            "id": "3bf79716fb91f006",
+            "id": "a9203d18320cb5b0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "ed19a54fb8e81fdd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,56 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 357.50418853759766
   },
   "right": {
-    "id": "51b54c2818b3cb60",
+    "id": "4589b6d3dd43461e",
     "type": "split",
     "children": [
       {
-        "id": "04a773b4ce7a24e8",
+        "id": "71c6a376d91d1c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "de6d262febd30fba",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "研究生/研一上课程/分布式期末卷子详解.md",
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "分布式期末卷子详解 的反向链接列表"
-            }
-          },
-          {
-            "id": "73fdb5d1240ae087",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "研究生/git-research/Missing semester.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Missing semester 的出链列表"
-            }
-          },
-          {
-            "id": "db898c87b7662ba6",
+            "id": "9fd8cd2ebb8531be",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -135,97 +112,148 @@
             }
           },
           {
-            "id": "34c63a8f18cf39bd",
+            "id": "ae14e6cdb83185f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Course notes/effective C++.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "effective C++ 的反向链接列表"
+            }
+          },
+          {
+            "id": "4064c42594c75eab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Course notes/effective C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "effective C++ 的出链列表"
+            }
+          },
+          {
+            "id": "50d0adff734e8343",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4561fc82c0ee8b88",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "研究生/实验（迁移中）/bisearch/2024/9.4 BiSearch 实验设计.md",
+                "file": "研究生/Key_TODO/COS-key.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "9.4 BiSearch 实验设计 的大纲"
+              "title": "COS-key 的大纲"
             }
           },
           {
-            "id": "35f122b186864416",
+            "id": "bded1556d3534ec3",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 482.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "remotely-save:Remotely Save": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-translator:Translate": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f9749bf67762dc6",
+  "active": "0f2be7ad2db0dd3e",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "Others/AE/拆解与参考.md",
-    "研究生/实验（迁移中）/bisearch/2025/2-25.md",
-    "研究生/实验（迁移中）/bisearch/2025/3-5 organization.md",
-    "研究生/实验（迁移中）/bisearch/2025/3-2 Motivation实验&Log实验.md",
-    "研究生/实验（迁移中）/bisearch/2025/2-20 Metadata与Odess命中吻合度.md",
-    "研究生/实验（迁移中）/bisearch/2025/2-23.md",
-    "Excalidraw/Drawing 2024-05-30 21.28.38.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 12.37.28.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-19 12.37.28.excalidraw.svg",
-    "Excalidraw/Drawing 2024-06-19 12.37.28.excalidraw.png",
-    "Course notes/effective C  .md",
-    "Obsidian-snapshot",
-    "Pasted image 20250306235429.png",
-    "PrintFromYdk.md",
+    "研究生/TODO.md",
+    "研究生/MeetingList.md",
+    "研究生/Key_TODO/COS-key.md",
     "README.md",
-    "研究生/实验（迁移中）/bisearch/2024/11.24原数据集与抽取header后分别做finesse.md",
-    "研究生/实验（迁移中）/bisearch/2024/11.14 Motivation.md",
-    "研究生/实验（迁移中）/bisearch/2024/11.4 Archive Format.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.27 node3 deflate.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.26 Deflate (数据不利于locality).md",
-    "研究生/实验（迁移中）/bisearch/2024/10.23调整baseline后的数据.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.16 Index nameHash BiSearch数据.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.18 BiSearch 存在的问题.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.14 实验结果.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.11 BiSearch实验结果.md",
-    "研究生/实验（迁移中）/bisearch/2024/10.7 Log数据集.md",
-    "研究生/实验（迁移中）/bisearch/未命名.md",
-    "研究生/实验（迁移中）/bisearch/2024/9.13 BiSearch Design3.md",
-    "研究生/实验（迁移中）/bisearch/2024/9.4 BiSearch 实验设计.md",
-    "研究生/实验（迁移中）/Ftcg/2024",
-    "研究生/实验（迁移中）/Ftcg",
-    "研究生/实验（迁移中）/bisearch/2024/pic/Pasted image 20250308204523.png",
-    "研究生/实验（迁移中）/bisearch/2024/pic/Pasted image 20250308204346.png",
-    "研究生/实验（迁移中）/bisearch/2024/pic/Pasted image 20250308203900.png",
+    "assignment1.md",
+    "pic/Pasted image 20240329154327.png",
+    "pic/Pasted image 20240318193740.png",
+    "pic/Pasted image 20240121212934.png",
+    "研究生/实验（迁移中）/bisearch/2025/7-22 evaluation-prompt.md",
+    "未命名.canvas",
+    "研究生/实验（迁移中）/bisearch/2025/7-29 evaluation(new datasets).md",
+    "研究生/实验（迁移中）/bisearch/2025/7.15 Evaluation-Complement.md",
+    "研究生/实验（迁移中）/bisearch/2025/7.18 Lines.md",
+    "研究生/实验（迁移中）/bisearch/2025/6.4 tmp conclusion.md",
+    "研究生/实验（迁移中）/bisearch/2025/7-18 Related Work.md",
+    "研究生/实验（迁移中）/bisearch/2025/7-24 modify datasets.md",
+    "Others/Circle/Echo.md",
+    "Others/Magican/想要成为魔法使.md",
+    "Others/Circle/Prompt.md",
+    "Others/AE/拆解与参考(ByMad)/List.md",
+    "研究生/实验（迁移中）/Third/7.20 log2.md",
+    "研究生/实验（迁移中）/Third/7.7 Record.md",
+    "研究生/实验（迁移中）/Third/7.13 baseline-data.md",
+    "研究生/实验（迁移中）/Third/6.30 PM产品调研.md",
+    "研究生/实验（迁移中）/bisearch/2025/5.19 overview.md",
+    "Others/AE/拆解与参考(ByMad)/魔法少女小圆-斯芬克斯之谜与箱庭.md",
+    "研究生/实验（迁移中）/bisearch/2025/4.27 citations.md",
+    "研究生/实验（迁移中）/bisearch/2025/4.28 SCR-delta.md",
+    "研究生/实验（迁移中）/bisearch/2025/pic/FalseFilter.png",
+    "研究生/实验（迁移中）/bisearch/2025/pic/sachunking2.png",
+    "研究生/实验（迁移中）/bisearch/2025/6.3 index overhead.md",
+    "研究生/实验（迁移中）/bisearch/2025/pic/sachunking2 1.png",
+    "研究生/实验（迁移中）/bisearch/2025/pic/Metadata-guided.png",
+    "研究生/实验（迁移中）/bisearch/2025/pic/Metadata-guided 1.png",
+    "研究生/实验（迁移中）/bisearch/2025/pic/Pasted image 20250726201140.png",
+    "研究生/实验（迁移中）/bisearch/2025/pic/Pasted image 20250723091639.png",
+    "Others/AE/拆解与参考(ByMad)",
+    "研究生/Key_TODO",
+    "Others/Magican",
+    "研究生/研一上课程/pic",
+    "Others/Circle",
+    "Excalidraw",
+    "研究生/实验（迁移中）/Ftcg/2024/pic",
+    "研究生/实验（迁移中）/Ftcg/2025",
     "研究生/实验（迁移中）/bisearch/2024/pic",
-    "研究生/实验（迁移中）/bisearch/2025/pic/Pasted image 20250307000204.png",
-    "研究生/实验（迁移中）/bisearch/2024",
-    "研究生/实验（迁移中）/bisearch/2025",
     "研究生/实验（迁移中）/bisearch/2025/pic",
-    "Others",
-    "本科/考研",
-    "Pasted image 20241119160013.png",
-    "Untitled.loom",
-    "Paper reading/chunking/pic/dwa1w.png",
-    "Paper reading/chunking/pic/4o1zw.png"
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 1.canvas"
   ]
 }
